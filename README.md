@@ -12,7 +12,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 3. Copy ```.vimrc``` to your home directory
 ```bash
-git clone https://github.com/rikonek/vim-config.git ~/
+git clone https://github.com/rikonek/vim-config.git ~/vim-config
 ln -s ~/vim-config/.vimrc ~/.vimrc
 ```
 
